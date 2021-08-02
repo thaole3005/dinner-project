@@ -610,7 +610,7 @@ section.category .item_content .item_infor {
  }
  .service .service__item:hover  i{
      background: var(--primary-color) ;
-     color: var(--bg-color) ;
+     color: #fff  ;
  }
  .service  a:hover{ 
      color: var(--primary-color);
@@ -620,6 +620,7 @@ section.category .item_content .item_infor {
      font-size: 25px;
      font-weight: 600;
      transition: 0.3s ease-in-out;
+     color: var(--heading-color) ;
  
  }
  .service p{
@@ -651,7 +652,7 @@ section.category .item_content .item_infor {
      font-size: 45px;
      line-height: 55px;
      font-weight: 600;
-     color:var(--bg-color);
+     color:#fff;
      max-width: 800px;
      text-align: center;
      margin: 50px auto;
