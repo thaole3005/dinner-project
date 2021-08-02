@@ -280,6 +280,11 @@ section.dinner_banner .banner_infor {
 
 }
 
+.banner_infor .btn_read_more:hover {
+    background: #fff;
+    border: 2px solid #fff;
+    color: var(--primary-color);
+}
 
 /* ------OVERLAY MENU------- */
 
