@@ -732,7 +732,7 @@ section.category .item_content .item_infor {
      margin-top: 40px;
      
  }
- .row h3{
+ .number .row h3{
      font-size: 40px;
      font-weight: 600;
      color: var(--heading-color);
